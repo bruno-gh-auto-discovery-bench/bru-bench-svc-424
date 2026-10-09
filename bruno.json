@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "search-worker",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
